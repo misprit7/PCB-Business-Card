@@ -1,0 +1,44 @@
+Added Component: Designator=U1(NINA_LGA71R_1500X1000X223_PCB)
+Add component (AddParameter): Name = "Manufacturer"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "55-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Stand-alone Bluetooth low energy module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NINA-B306"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCK Pin=U1-1
+Added Pin To Net: NetName=NetR1_2 Pin=U1-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NetR1_1 Pin=U1-8
+Added Pin To Net: NetName=+3V3 Pin=U1-9
+Added Pin To Net: NetName=+3V3 Pin=U1-10
+Added Pin To Net: NetName=SWCLK Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=SWDIO Pin=U1-15
+Added Pin To Net: NetName=RESETN Pin=U1-19
+Added Pin To Net: NetName=AIN6_A2 Pin=U1-24
+Added Pin To Net: NetName=AIN3_A0 Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=AIN2_A1 Pin=U1-27
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=NetC1_2 Pin=U1-31
+Added Pin To Net: NetName=NetR5_2 Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U1-53
+Added Pin To Net: NetName=D+ Pin=U1-54
+Added Pin To Net: NetName=D- Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-56
+Added Pin To Net: NetName=GND Pin=U1-57
+Added Pin To Net: NetName=GND Pin=U1-58
+Added Pin To Net: NetName=GND Pin=U1-59
+Added Pin To Net: NetName=GND Pin=U1-60
+Added Pin To Net: NetName=GND Pin=U1-61
+Added Pin To Net: NetName=GND Pin=U1-62
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=GND Pin=U1-64
+Added Pin To Net: NetName=GND Pin=U1-65
+Added Pin To Net: NetName=GND Pin=U1-66
+Added Pin To Net: NetName=GND Pin=U1-67
+Added Pin To Net: NetName=GND Pin=U1-68
+Added Pin To Net: NetName=GND Pin=U1-69
+Added Pin To Net: NetName=GND Pin=U1-70
+Added Pin To Net: NetName=GND Pin=U1-71
+Added Member To Class: ClassName=MainSchematic Member=Component U1 NINA-B306

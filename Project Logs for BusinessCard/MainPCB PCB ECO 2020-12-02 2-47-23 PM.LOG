@@ -1,0 +1,36 @@
+Added Component: Designator=J?(FCI-10118193-0001LF-5_V)
+Add component (AddParameter): Name = "Brand"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "MicroUSBTypeBreceptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/10118193-0001LF-FCI-datasheet-55953155.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C, 05/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "1200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1000MOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.fci.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Right"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "MicroUSBTypeBConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "USBConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "USB2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VUSB Pin=J?-1
+Added Pin To Net: NetName=D- Pin=J?-2
+Added Pin To Net: NetName=D+ Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=NetC5_2 Pin=J?-6
+Added Pin To Net: NetName=NetC5_2 Pin=J?-7
+Added Pin To Net: NetName=NetC5_2 Pin=J?-8
+Added Pin To Net: NetName=NetC5_2 Pin=J?-9
+Added Pin To Net: NetName=NetC5_2 Pin=J?-10
+Added Pin To Net: NetName=NetC5_2 Pin=J?-11
+Added Member To Class: ClassName=MainSchematic Member=Component BT? 3001
+Added Member To Class: ClassName=MainSchematic Member=Component J? 10118193-0001LF

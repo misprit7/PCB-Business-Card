@@ -1,0 +1,3 @@
+Added Component: Designator=AN?(NFC_Antenna)
+Add component (AddParameter): Name = "L"; Value = "5.51 uH"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MainSchematic Member=Component AN? NFC Antenna

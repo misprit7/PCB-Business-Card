@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Added Component: Designator=P4(SMTC-TSM-104-01-X-SH)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/TSM.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/TSM-1XX-XX-XXX-SH-XX-XXX-XX-MKT1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Terminal Strip Single Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TSM-104-01-X-SH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "CD, 7/1991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TSM-104-01-T-SH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 105 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=+3V3 Pin=P3-2
+Added Pin To Net: NetName=VUSB Pin=P3-3
+Added Pin To Net: NetName=AIN3_A0 Pin=P3-4
+Added Pin To Net: NetName=RX Pin=P4-3
+Added Pin To Net: NetName=RX Pin=U1-37
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL Pin=P4-2
+Added Pin To Net: NetName=SCL Pin=U1-18
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P4-1
+Added Pin To Net: NetName=SDA Pin=U1-20
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX Pin=P4-4
+Added Pin To Net: NetName=TX Pin=U1-38
+Added Net: Name=TX
+Added Member To Class: ClassName=MainSchematic Member=Component P4 TSM-104-01-T-SH

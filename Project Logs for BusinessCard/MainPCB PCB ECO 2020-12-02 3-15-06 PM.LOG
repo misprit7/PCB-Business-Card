@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3V3 Pin=P1-1
+Removed Pin From Net: NetName=SWDIO Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=SWCLK Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=RESETN Pin=P1-10
+Removed Member From Class: ClassName=MainSchematic Member=P1
