@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C2 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-GRM033-0_03-MFG
+Change Component Footprint: Designator=C3 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-GRM033-0_03-MFG
+Change Component Footprint: Designator=C9 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-GRM033-0_03-MFG
+Change Component Comment: Designator=C2 Old Comment=CC0603KRX7R7BB104 New Comment=GRM033R60J104KE19D
+Change Component Comment: Designator=C3 Old Comment=CC0603KRX7R7BB104 New Comment=GRM033R60J104KE19D
+Change Component Comment: Designator=C9 Old Comment=CC0603KRX7R7BB104 New Comment=GRM033R60J104KE19D
+Change Pin Designator/Name:  Old Designator=C3-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C3-1 Old Name=1 New Designator =2 New Name=2

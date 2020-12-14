@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3V3 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Change Component Footprint: Designator=C2 Old Footprint=FP-GRM033-0_03-MFG New Footprint=FP-CC0603-DA-MFG
+Change Component Footprint: Designator=C3 Old Footprint=FP-GRM033-0_03-MFG New Footprint=FP-CC0603-DA-MFG
+Change Component Footprint: Designator=C9 Old Footprint=FP-GRM033-0_03-MFG New Footprint=FP-CC0603-DA-MFG
+Change Component Comment : Designator=C2 Old Comment=GRM033R60J104KE19D New Comment=CC0603KRX7R7BB104
+Change Component Comment : Designator=C3 Old Comment=GRM033R60J104KE19D New Comment=CC0603KRX7R7BB104
+Change Component Comment : Designator=C9 Old Comment=GRM033R60J104KE19D New Comment=CC0603KRX7R7BB104
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C9 NewDesignator=C3
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC9_2

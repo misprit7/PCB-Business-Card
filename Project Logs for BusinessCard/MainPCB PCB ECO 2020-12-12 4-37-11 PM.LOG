@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C1 Old Footprint=AVX-12065C102KAT2A_L New Footprint=CAPC1608X90X35LL15T15
+Change Component Footprint: Designator=C4 Old Footprint=AVX-12065C102KAT2A_L New Footprint=CAPC1608X90X35LL15T15
+Change Component Footprint: Designator=C10 Old Footprint=AVX-12065C102KAT2A_L New Footprint=CAPC1608X90X35LL15T15
+Change Component Comment : Designator=C1 Old Comment=12065C102KAT2A New Comment=06035C102KAT2A
+Change Component Comment : Designator=C4 Old Comment=12065C102KAT2A New Comment=06035C102KAT2A
+Change Component Comment : Designator=C10 Old Comment=12065C102KAT2A New Comment=06035C102KAT2A
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=75321961-91CE-476F-B07B-14FDB5EF1CE9 New ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 Old RevisionGUID=305D80D6-2056-45EA-B2C6-3B57BDDBC1E8 New RevisionGUID=BD95B834-C5BC-4823-AB9F-B7DCE225B13D
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=75321961-91CE-476F-B07B-14FDB5EF1CE9 New ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 Old RevisionGUID=305D80D6-2056-45EA-B2C6-3B57BDDBC1E8 New RevisionGUID=BD95B834-C5BC-4823-AB9F-B7DCE225B13D
+Change Managed Component Library Link : Designator=C10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=75321961-91CE-476F-B07B-14FDB5EF1CE9 New ItemGUID=208F955F-60E5-4621-A2A8-6A1EB957F730 Old RevisionGUID=305D80D6-2056-45EA-B2C6-3B57BDDBC1E8 New RevisionGUID=BD95B834-C5BC-4823-AB9F-B7DCE225B13D
+Change component parameters: Designator = "C1" ("C1"); Footprint = "AVX-12065C102KAT2A_L"; UniqueID = "\RYJRRYRO" ("\RYJRRYRO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "06035C102KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "AVX-12065C102KAT2A_L"; UniqueID = "\XYCAMWWV" ("\XYCAMWWV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "06035C102KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "AVX-12065C102KAT2A_L"; UniqueID = "\KZYJTUWW" ("\KZYJTUWW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "06035C102KAT2A"; VariantName = "[No Variations]"
