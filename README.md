@@ -15,7 +15,7 @@ This is my custom PCB business card. At the end of 2020 I wanted a project to le
 
 The final product looks like this: 
 
-![card gif](images/nfc-demo.mp4)
+https://user-images.githubusercontent.com/33139843/137082818-c895b24c-45d9-431c-9933-9b9995591427.mp4
 
 ![business card](images/populated.jpg)
 ![card back](images/back.jpg)
