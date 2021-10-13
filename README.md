@@ -35,3 +35,7 @@ If anyone wants to make a similar PCB or even use this design while just changin
 1. The Battery is way underspecced. I misinterpreted a datasheet and as such the battery can't provide enough current for the MCU. To fix this would probably required moving some layout around to fit a bigger battery. Right now that just means that the PCB can only be powered through USB which works fine. 
 
 2. The font on the back for the table of Laplace transforms was printed weird. That might just be an issue on JLCPCB's side but as it is there are some random lines slightly out of place and the equations aren't super readable. This is just aesthetic though and doesn't affect anything electrically. 
+
+## Credits
+
+The Antenna design was almost directly used from [here](https://github.com/badrbouslikhin/Enchante), a very similar and really cool project that I would highly recommend you check out. 
