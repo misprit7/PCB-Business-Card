@@ -7,11 +7,11 @@ This is my custom PCB business card. At the end of 2020 I wanted a project to le
 
 - Fully programmable microcontroller compatible with and Arduino bootloader (although SWD flashing is required first)
 - Bluetooth communication
-- NFC capabilities with just one chip being soldered on
+- NFC capabilities with just one chip being soldered on to enable my website to be pulled up just by tapping the PCB to a phone
 - UART, SPI and analog/digital outputs through standard pin headers
 - Easily powered through micro USB
 - 5 LEDs to indicate power/digitally toggle
-- 1 power switch, one input switch and an input pushbutton
+- One power switch, one input switch and an input pushbutton
 
 The final product looks like this: 
 
@@ -39,3 +39,5 @@ If anyone wants to make a similar PCB or even use this design while just changin
 ## Credits
 
 The Antenna design was almost directly used from [here](https://github.com/badrbouslikhin/Enchante), a very similar and really cool project that I would highly recommend you check out. 
+
+The circuit design was heavily influenced by the [Arduino Nano BLE](https://store-usa.arduino.cc/products/arduino-nano-33-ble), as I used the same chip and wanted to maintain compatibility with the Arduino. 
